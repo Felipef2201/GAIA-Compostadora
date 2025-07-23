@@ -1,2 +1,2 @@
 # GAIA-Compostadora
-GAIA (Gestión Autónoma de Insumos Agrícolas) / Compostadora semiautomática
+GAIA (Generador Autónomo Inteligente de Abono) / Compostadora semiautomática
